@@ -23,5 +23,5 @@ qemu-arm-static -g 1234 -L /mnt/rootfs_mount /mnt/rootfs_mount/apps/skyeye/bin/k
 
 
 
-
+```
 ![Uploading 스크린샷 2025-07-13 오후 3.58.15.png…]()
